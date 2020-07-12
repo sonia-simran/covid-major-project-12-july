@@ -1,0 +1,37 @@
+Patient Number,Date ,Age ,Gender, District, State,Current Status,Travel History,Num Cases
+1,19-03-2020,24,F,Raipur,Chhattisgarh,Recovered,Travelled from UK,1
+2,25-03-2020,23,M,Rajnandgaon,Chhattisgarh,Recovered,Travel history to Thailand (admitted in Rajnandgaon hospital),1
+3,25-03-2020,24,F,Raipur,Chhattisgarh,Recovered,Travel history to UK,1
+4,26-03-2020,52,M,Bilaspur,Chhattisgarh,Recovered,Details Awaited,1
+5,26-03-2020,40,F,Raipur,Chhattisgarh,Recovered,Details Awaited,1
+6,26-03-2020,36,F,Durg,Chhattisgarh,Recovered,Details Awaited,1
+7,28-03-2020,21,M,Raipur,Chhattisgarh,Recovered,Travelled from UK,1
+8,30-03-2020,48,M,Korba,Chhattisgarh,Hospitalized,Travelled from London,1
+9,31-03-2020,55,F,Raipur,Chhattisgarh,Recovered,Travelled from UK,1
+10,04-04-2020,16,M,Korba,Chhattisgarh,Hospitalized,Travelled to Delhi,1
+11,09-04-2020,52,M,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+12,09-04-2020,65,M,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+13,09-04-2020,63,F,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+14,09-04-2020,62,F,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+15,09-04-2020,69,M,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+16,09-04-2020,58,F,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+17,09-04-2020,59,M,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+18,09-04-2020,49,F,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+19,11-04-2020,54,F,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+20,11-04-2020,47,M,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+21,11-04-2020,63,F,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+22,11-04-2020,64,F,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+23,11-04-2020,66,F,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+24,11-04-2020,71,M,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+25,11-04-2020,73,M,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+26,12-04-2020,45,F,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+27,12-04-2020,72,M,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+28,12-04-2020,70,M,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+29,12-04-2020,46,F,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+30,12-04-2020,58,F,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+31,12-04-2020,59,M,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+32,14-04-2020,65,F,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+33,14-04-2020,73,M,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+34,16-04-2020,36,F,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+35,16-04-2020,45,F,Korba,Chhattisgarh,Hospitalized,Details awaited,1
+36,16-04-2020,35,M,Korba,Chhattisgarh,Hospitalized,Details awaited,1
